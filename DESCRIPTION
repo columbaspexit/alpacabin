@@ -1,0 +1,18 @@
+Package: alpacabin
+Title: Solves a Bin-Packing Problem.
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Alicia",
+           family = "Jorda",
+           role = c("aut", "cre"),
+           email = "alpaca.flyingfig@neverbox.com")
+Description: alpacabin provides one solution to one specific version of the bin 
+    packing problem: when you have a bunch of items, all with the same dimensions, 
+    how many fit in a box/bin? The heuristic used by pack_bin is based on how 
+    someone might pack a bin themselves, by way of a mess of matrix transformations.
+URL: https://github.com/columbaspexit/alpacabin
+License: `use_gpl3_license()`
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
