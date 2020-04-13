@@ -2,8 +2,7 @@ Package: alpacabin
 Title: Solves a Bin-Packing Problem.
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "Alicia",
-           family = "Jorda",
+    person(given = "columbaspexit",
            role = c("aut", "cre"),
            email = "alpaca.flyingfig@neverbox.com")
 Description: alpacabin provides one solution to one specific version of the bin 
